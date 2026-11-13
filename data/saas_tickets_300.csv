@@ -1,0 +1,301 @@
+id,rating,language,channel,plan,text
+1,1,bg,имейл,Business,Здравейте! Няма как да управляваме два магазина от един профил.
+2,1,mixed,отзив,Pro,"Wow, duplicates again. Наистина впечатляваща работа."
+3,3,mixed,чат,Pro,"Здравейте! Save бутонът не работи в Safari, моля fix-нете го."
+4,3,mixed,имейл,Pro,"Здравейте! The Shopify sync stopped and products are not updating. Моля, оправете го."
+5,2,bg,имейл,Pro,Здравейте! Фийдът към Google Shopping се отхвърля всеки път. Чакам отговор.
+6,5,bg,чат,Starter,Текстовете звучат естествено и клиентите ни ги харесват. Благодаря!
+7,1,bg,чат,Pro,"Магазинът ни е за детски дрехи, около 800 продукта. 49 € на месец е много за това, от което имаме нужда."
+8,3,bg,отзив,Pro,Бутонът за запис не работи в Safari.
+9,2,bg,чат,Starter,Общо взето не ни върши работа.
+10,1,mixed,имейл,Pro,Здравейте! We run an online cosmetics shop. The webhook docs have no examples at all. Чакам отговор.
+11,2,en,чат,Starter,"Hi! Great, another update and the save button is gone again. Love it."
+12,2,mixed,имейл,Business,Hi team! Bulk import-ът на продуктите е painfully slow.
+13,1,bg,чат,Starter,"Здравейте! Сменихме плана на Starter, но ни таксувахте за Business."
+14,5,bg,отзив,Pro,"Браво, едно описание за две минути. Можем да си сварим кафе междувременно."
+15,4,bg,отзив,Starter,Текстовете звучат естествено и клиентите ни ги харесват. Продължавайте така.
+16,4,en,отзив,Starter,We sell handmade jewellery. Fair pricing compared to other tools we tried. Thanks!
+17,5,en,имейл,Starter,"Hi team! Amazing tool, it saves us hours every week."
+18,1,bg,отзив,Starter,"Генерираните описания излизат на английски, въпреки че съм избрал български."
+19,2,bg,чат,Business,Работим с вас от година. Фактурите за последните три месеца не са в профила ми. Разочаровани сме. Телефон за връзка: 0899 000 318.
+20,5,mixed,чат,Pro,"Great product, keep up the good work. Благодаря!"
+21,4,bg,имейл,Starter,"Добър ден! Видеоуроците са много ясни, настроихме всичко сами. Препоръчвам."
+22,2,bg,отзив,Starter,"Интеграцията с WooCommerce работи безупречно, но помощните статии за плащанията са само на английски. Оправете го и ще дадем пет звезди."
+23,2,bg,имейл,Business,Добър ден! Ползваме ви от пролетта. Защо няма описания на гръцки? Продаваме и в Гърция.
+24,3,bg,имейл,Starter,Добър ден! Ползваме ви от пролетта. Общо взето не ни върши работа.
+25,5,bg,имейл,Pro,Добър ден! Ползваме ви от пролетта. Плащането с карта мина без проблем и фактурата беше точна. Препоръчвам.
+26,4,bg,чат,Starter,"Получихме помощ на български, и то в събота, но описанията се режат по средата на изречението."
+27,1,mixed,чат,Business,Здравейте! Ползваме ви от пролетта. Таблото се зарежда по 20 секунди. Please fix this. Contact me at elena.st@example.net.
+28,5,en,чат,Business,"Connected Shopify in two minutes, the sync just works. Thanks!"
+29,5,mixed,имейл,Starter,Здравейте! Поддръжката отговори за 10 минути и беше много учтива. Highly recommend.
+30,5,mixed,чат,Starter,Hi! Текстовете звучат естествено и клиентите ни ги харесват. Keep it up.
+31,1,bg,имейл,Starter,"Добър ден! Прекрасно, отстъпката ни свърши в седмицата на Black Friday. Точно както си мечтаехме."
+32,3,bg,чат,Starter,"Здравейте! Видеоуроците са много ясни, настроихме всичко сами, но за Starter плана плащаме твърде много за това, което получаваме."
+33,1,bg,чат,Starter,"Здравейте! Сменихме плана на Starter, но ни таксувахте за Business. Чакам отговор."
+34,5,en,имейл,Pro,"Hello! Very happy with it, recommending it to everyone. Keep it up."
+35,1,mixed,имейл,Pro,"Hello! Invoice-ът пак е без VAT номер, моля коригирайте."
+36,2,bg,имейл,Pro,"Добър ден! Работим с вас от година. Генерираните описания излизат на английски, въпреки че съм избрал български."
+37,2,bg,чат,Pro,"Здравейте! Генерирането на едно описание отнема над минута. Номерът ми е 0877 000 256, търсете Петя Иванова."
+38,4,bg,отзив,Starter,"Имаме онлайн магазин за козметика. Бърз и учтив отговор от поддръжката, благодаря! Продължавайте така."
+39,1,en,имейл,Starter,Hello! We run an online cosmetics shop. After the last update some products are duplicated. Really frustrating.
+40,2,bg,отзив,Pro,"Страхотно, описанията пак излизат наполовина. Точно това ни трябваше преди Black Friday."
+41,1,bg,чат,Pro,"49 € на месец е много за това, от което имаме нужда. Разочаровани сме."
+42,5,bg,чат,Starter,"Здравейте! Цената е напълно разумна за времето, което ни спестява."
+43,1,bg,имейл,Starter,Добър ден! Продаваме ръчно изработени бижута. При запис на продукт излиза грешка 500 и всичко се губи.
+44,5,bg,отзив,Starter,"Ползваме ви от пролетта. Струва си всеки цент, изплати се още първия месец."
+45,1,mixed,имейл,Pro,"Hello! I get error 500 every time I save a product. Спешно е. My email is maria.k@example.org, phone +359 88 000 0412."
+46,4,bg,отзив,Pro,"Колежката от поддръжката беше изключително търпелива с нас, но защо няма описания на гръцки? Продаваме и в Гърция."
+47,4,bg,отзив,Starter,Текстовете звучат естествено и клиентите ни ги харесват.
+48,1,bg,чат,Starter,"Здравейте! Обожавам грешка 500 сутрин, събужда по-добре от кафето."
+49,1,bg,отзив,Pro,Синхронизацията с Shopify спря и продуктите не се обновяват.
+50,2,bg,чат,Starter,"Колежката от поддръжката беше изключително търпелива с нас, но генерираните описания излизат на английски, въпреки че съм избрал български."
+51,3,bg,отзив,Starter,"Свързахме Shopify за две минути и всичко се синхронизира само, но чатботът на поддръжката отговаря с общи фрази и не помага."
+52,2,en,чат,Pro,"Great value for money, it paid for itself in the first month, but the save button does nothing in Safari."
+53,4,bg,чат,Business,"Ползваме ви от пролетта. Грешката при запис изчезна след ъпдейта, браво на екипа. Продължавайте така."
+54,5,bg,чат,Business,Работим с вас от година. Свързахме Shopify за две минути и всичко се синхронизира само. Благодаря!
+55,3,bg,отзив,Business,Ползваме ви от пролетта. Импортът на 2 000 продукта отне цяла нощ.
+56,1,mixed,чат,Pro,"Магазинът ни е за детски дрехи, около 800 продукта. Струва си всеки цент, изплати се още първия месец. Thanks!"
+57,5,bg,отзив,Starter,"Бърз и учтив отговор от поддръжката, благодаря! Продължавайте така."
+58,1,mixed,имейл,Starter,"Hi team! Save бутонът не работи в Safari, моля fix-нете го."
+59,2,bg,отзив,Pro,"Струва си всеки цент, изплати се още първия месец, но чатботът на поддръжката отговаря с общи фрази и не помага."
+60,2,bg,отзив,Pro,"Интеграцията с WooCommerce работи безупречно, но отстъпката ни изтече и сега плащаме много повече. Иначе сме доволни."
+61,5,mixed,чат,Business,"Здравейте! The video tutorials are clear, we set everything up ourselves. Препоръчвам."
+62,5,bg,отзив,Business,Ползваме ви от пролетта. Свързахме Shopify за две минути и всичко се синхронизира само. Препоръчвам.
+63,2,mixed,чат,Starter,Hi! Our Google Shopping feed gets rejected every time. Спешно е.
+64,1,en,имейл,Business,Hi team! Paying per seat on Business adds up very fast.
+65,2,en,чат,Starter,We have been using the app since spring. The save button does nothing in Safari. Please fix this.
+66,5,bg,отзив,Pro,Ползваме ви от пролетта. Поддръжката отговори за 10 минути и беше много учтива. Благодаря!
+67,4,en,имейл,Pro,"Hi team! Very happy with it, recommending it to everyone."
+68,1,bg,имейл,Pro,Добър ден! Защо няма описания на гръцки? Продаваме и в Гърция.
+69,4,bg,отзив,Pro,"Струва си всеки цент, изплати се още първия месец. Препоръчвам."
+70,3,mixed,отзив,Pro,"Свързахме Shopify за две минути и всичко се синхронизира само, but invoices are issued to the wrong company name. Иначе сме доволни."
+71,1,en,чат,Pro,Hi! We run an online cosmetics shop. There is no way to export descriptions to Excel. Really frustrating.
+72,5,bg,отзив,Pro,Поддръжката отговори за 10 минути и беше много учтива.
+73,2,bg,чат,Pro,Имаме онлайн магазин за козметика. Връзката с eMAG Marketplace прекъсва по няколко пъти на ден. Разочаровани сме.
+74,1,en,чат,Pro,The invoice is missing our VAT number again.
+75,1,bg,имейл,Starter,Здравейте! Колежката от поддръжката беше изключително търпелива с нас. Благодаря!
+76,4,en,имейл,Pro,Hi team! Very patient and friendly people in support. Keep it up.
+77,1,bg,чат,Starter,"Имаме онлайн магазин за козметика. За Starter плана плащаме твърде много за това, което получаваме. Ще потърсим друго решение."
+78,1,en,чат,Business,"Hi! Lightning fast, the import only took nine hours."
+79,1,bg,имейл,Business,Здравейте! Фийдът към Google Shopping се отхвърля всеки път. Разочаровани сме.
+80,1,en,чат,Business,Great value: we pay for 15 seats and use 4.
+81,3,en,чат,Pro,"Support replied within 10 minutes and was very kind, but I was charged twice this month and I am still waiting for the refund."
+82,5,mixed,отзив,Pro,Интеграцията с WooCommerce работи безупречно. Highly recommend.
+83,1,bg,имейл,Pro,"Добър ден! Имаме онлайн магазин за козметика. Защо няма описания на гръцки? Продаваме и в Гърция. Моля, помислете за това."
+84,4,bg,чат,Business,"Получихме помощ на български, и то в събота, но синхронизацията с Shopify спря и продуктите не се обновяват."
+85,5,en,отзив,Starter,"Thanks for the super fast reply, it only took a week."
+86,2,bg,имейл,Business,Добър ден! Работим с вас от година. Синхронизацията с Shopify спря и продуктите не се обновяват. Чакам отговор.
+87,1,bg,чат,Starter,"Помощните статии са остарели, екраните вече не изглеждат така. Чакам отговор."
+88,4,mixed,отзив,Pro,Very patient and friendly people in support. Продължавайте така.
+89,5,bg,отзив,Starter,Поддръжката отговори за 10 минути и беше много учтива. Препоръчвам.
+90,3,en,отзив,Pro,"The help articles are clear and easy to follow, but the Pro plan is way too expensive for a small shop like ours."
+91,2,bg,чат,Starter,"Колежката от поддръжката беше изключително търпелива с нас, но фактурата ми излезе на грешна фирма и без ДДС номер. Иначе сме доволни."
+92,4,en,чат,Starter,Descriptions get cut off in the middle of a sentence.
+93,5,en,чат,Business,We have been using the app since spring. Support replied within 10 minutes and was very kind.
+94,3,en,отзив,Business,"Connected Shopify in two minutes, the sync just works, but importing 2,000 products ran all night."
+95,2,mixed,имейл,Starter,Hello! Sync-ът с Shopify пак гърми след последния update.
+96,1,en,отзив,Pro,We run an online cosmetics shop. The save button does nothing in Safari.
+97,5,mixed,имейл,Business,"Hello! Great value for money, it paid for itself in the first month. Препоръчвам."
+98,2,bg,отзив,Pro,"Невероятно, синхронизацията с Shopify издържа цели два часа този път."
+99,3,mixed,чат,Starter,Бутонът за запис не работи в Safari. Really frustrating.
+100,5,bg,отзив,Starter,"Starter планът е идеален за начало, плащаме малко и получаваме много. Препоръчвам."
+101,4,en,чат,Business,"We sell handmade jewellery. Connected Shopify in two minutes, the sync just works."
+102,5,bg,отзив,Starter,Колежката от поддръжката беше изключително търпелива с нас.
+103,1,bg,чат,Starter,Здравейте! Описанията се режат по средата на изречението. Чакам отговор.
+104,1,bg,отзив,Pro,"Страхотен инструмент, спести ни часове работа. Продължавайте така."
+105,1,mixed,имейл,Pro,"Добър ден! We need multi-store support, one account per shop is a pain. Моля, помислете за това. Call me on +359 87 000 0533 and ask for Nikolay."
+106,5,mixed,имейл,Pro,"Hello! We run an online cosmetics shop. Great product, keep up the good work. Благодаря!"
+107,1,bg,чат,Business,"Здравейте! Страхотна фактура, само фирмата и ДДС номерът са грешни."
+108,2,en,отзив,Pro,"Connected Shopify in two minutes, the sync just works, but the webhook docs have no examples at all."
+109,3,mixed,отзив,Pro,"Very happy with it, recommending it to everyone, но писах на поддръжката преди три дни и още нямам отговор."
+110,4,en,отзив,Pro,Very patient and friendly people in support.
+111,3,bg,имейл,Pro,"Добър ден! Страхотен инструмент, спести ни часове работа, но 49 € на месец е много за това, от което имаме нужда."
+112,1,en,чат,Business,Hi! Paying per seat on Business adds up very fast. Waiting for your reply.
+113,2,bg,имейл,Starter,"Добър ден! Сменихме плана на Starter, но ни таксувахте за Business."
+114,3,bg,отзив,Business,"Няма как да управляваме два магазина от един профил. Моля, помислете за това."
+115,4,bg,отзив,Pro,"Отличен продукт, продължавайте в същия дух."
+116,1,bg,чат,Starter,"Браво, запазването пак не работи. Трети път този месец."
+117,5,bg,чат,Starter,Здравейте! Документацията е подробна и ясна.
+118,2,bg,отзив,Pro,"Документацията е подробна и ясна, но няма как да управляваме два магазина от един профил."
+119,5,bg,отзив,Pro,"Продаваме ръчно изработени бижута. Много сме доволни, препоръчваме го на всички колеги. Продължавайте така."
+120,2,bg,чат,Pro,Плъгинът за WooCommerce не работи с последната версия на WordPress.
+121,2,bg,отзив,Pro,Описанията се режат по средата на изречението.
+122,1,bg,чат,Starter,Здравейте! Отстъпката ни изтече и сега плащаме много повече.
+123,4,bg,отзив,Starter,"Магазинът ни е за детски дрехи, около 800 продукта. Бъгът с дублираните продукти е оправен, вече всичко работи."
+124,3,bg,чат,Starter,Здравейте! Имаме онлайн магазин за козметика. При запис на продукт излиза грешка 500 и всичко се губи. Спешно е.
+125,1,bg,чат,Business,При запис на продукт излиза грешка 500 и всичко се губи.
+126,1,en,имейл,Starter,"Hi team! We sell handmade jewellery. The help articles are outdated, the screens look different now."
+127,5,bg,отзив,Starter,"Страхотен инструмент, спести ни часове работа."
+128,4,en,чат,Pro,"Hi! We run an online cosmetics shop. Quick and helpful answer from support, thank you! Keep it up."
+129,4,bg,отзив,Starter,"Starter планът е идеален за начало, плащаме малко и получаваме много, но връзката с eMAG Marketplace прекъсва по няколко пъти на ден. Иначе сме доволни."
+130,5,bg,имейл,Pro,Добър ден! Текстовете звучат естествено и клиентите ни ги харесват. Благодаря!
+131,2,en,отзив,Business,We have been using the app since spring. Invoices are issued to the wrong company name.
+132,3,bg,чат,Pro,"Страхотен инструмент, спести ни часове работа, но бутонът за запис не работи в Safari."
+133,2,en,чат,Pro,The dashboard takes 20 seconds to load.
+134,2,mixed,отзив,Starter,"The WooCommerce plugin works flawlessly, но отстъпката ни изтече и сега плащаме много повече."
+135,1,en,чат,Business,Hi! We sell handmade jewellery. Paying per seat on Business adds up very fast.
+136,5,mixed,чат,Business,"Hi! Имаме онлайн магазин за козметика. Много по-бързо е от преди, описанията излизат за секунди. Highly recommend."
+137,1,bg,чат,Pro,Здравейте! Конкурентите предлагат същото за половината пари. Чакам отговор.
+138,3,en,чат,Starter,We have been using the app since spring. Our discount ended and now we pay a lot more.
+139,1,bg,отзив,Starter,Генерирането на едно описание отнема над минута. Разочаровани сме.
+140,5,bg,чат,Business,"Магазинът ни е за детски дрехи, около 800 продукта. Документацията е подробна и ясна."
+141,4,bg,имейл,Pro,"Здравейте! Текстовете звучат естествено и клиентите ни ги харесват, но фактурите за последните три месеца не са в профила ми."
+142,2,bg,имейл,Starter,Добър ден! Ползваме ви от пролетта. Няма как да управляваме два магазина от един профил.
+143,5,bg,отзив,Starter,"Много сме доволни, препоръчваме го на всички колеги. Продължавайте така."
+144,2,bg,чат,Pro,Здравейте! Плъгинът за WooCommerce не работи с последната версия на WordPress.
+145,4,mixed,отзив,Starter,"Great value for money, it paid for itself in the first month. Продължавайте така."
+146,5,en,чат,Business,"Super fast now, descriptions come out in seconds."
+147,3,bg,отзив,Pro,"Интеграцията с WooCommerce работи безупречно, но липсва експорт на описанията в Excel, а ни трябва всеки ден."
+148,1,bg,чат,Pro,Връзката с eMAG Marketplace прекъсва по няколко пъти на ден. Чакам отговор.
+149,5,bg,чат,Starter,"Видеоуроците са много ясни, настроихме всичко сами. Препоръчвам."
+150,2,bg,отзив,Business,"Следобед всичко е много бавно, сякаш сървърите не издържат."
+151,3,bg,имейл,Pro,"Здравейте! В ръководството няма нито един пример, всичко е само текст. Чакам отговор."
+152,1,bg,имейл,Starter,"Здравейте! Магазинът ни е за детски дрехи, около 800 продукта. Генерираните описания излизат на английски, въпреки че съм избрал български. Чакам отговор."
+153,1,bg,имейл,Starter,"Здравейте! Помощните статии са остарели, екраните вече не изглеждат така."
+154,1,bg,чат,Business,"Работим с вас от година. Фактурата е в лева, а плащаме в евро, и счетоводителката ни не може да я осчетоводи. Моля, оправете го."
+155,1,mixed,имейл,Pro,Hi team! Връзката с eMAG Marketplace прекъсва по няколко пъти на ден. Waiting for your reply.
+156,3,bg,чат,Pro,Продаваме ръчно изработени бижута. Няма как да управляваме два магазина от един профил.
+157,1,en,имейл,Business,Hello! Paying per seat on Business adds up very fast. We will look for alternatives.
+158,1,en,отзив,Starter,"Importing 2,000 products ran all night. Please fix this."
+159,2,bg,отзив,Starter,Таксувахте ме два пъти този месец и още чакам да ми върнете парите.
+160,1,bg,имейл,Pro,"Добър ден! Следобед всичко е много бавно, сякаш сървърите не издържат."
+161,5,bg,чат,Starter,Ползваме ви от пролетта. Колежката от поддръжката беше изключително търпелива с нас.
+162,5,en,чат,Starter,The Starter plan is cheap and does everything we need.
+163,4,bg,имейл,Pro,"Здравейте! Страхотен инструмент, спести ни часове работа. Продължавайте така."
+164,4,bg,отзив,Business,"Цената е напълно разумна за времето, което ни спестява, но връзката с eMAG Marketplace прекъсва по няколко пъти на ден."
+165,1,bg,отзив,Starter,Цените в описанията се показват с точка вместо със запетая.
+166,2,bg,отзив,Pro,"Ползваме ви от пролетта. Трябва ни API, за да пускаме описанията автоматично, а такова няма. Разочаровани сме."
+167,5,bg,отзив,Pro,"Получихме помощ на български, и то в събота. Благодаря!"
+168,4,mixed,чат,Business,"Работим с вас от година. Бъгът с дублираните продукти е оправен, вече всичко работи. Highly recommend."
+169,5,mixed,отзив,Pro,Колежката от поддръжката беше изключително търпелива с нас. Keep it up.
+170,5,bg,чат,Pro,"Имаме онлайн магазин за козметика. Затварят тикета, без да е решен проблемът."
+171,5,bg,чат,Pro,"Магазинът ни е за детски дрехи, около 800 продукта. Бърз и учтив отговор от поддръжката, благодаря!"
+172,1,bg,чат,Starter,Продаваме ръчно изработени бижута. Конкурентите предлагат същото за половината пари.
+173,5,bg,отзив,Starter,"Starter планът е идеален за начало, плащаме малко и получаваме много."
+174,1,bg,имейл,Pro,Добър ден! Генерирането на едно описание отнема над минута.
+175,3,bg,чат,Pro,"Видеоуроците са много ясни, настроихме всичко сами, но фактурите за последните три месеца не са в профила ми. Иначе сме доволни."
+176,1,bg,чат,Starter,"Здравейте! Не е това, което очаквахме. Разочаровани сме."
+177,4,mixed,имейл,Starter,"Hi team! We have been using the app since spring. Very happy with it, recommending it to everyone. Благодаря!"
+178,5,en,отзив,Starter,"Great product, keep up the good work."
+179,1,mixed,имейл,Business,"Hello! В ръководството няма нито един пример, всичко е само текст. Waiting for your reply."
+180,5,bg,отзив,Pro,"Продаваме ръчно изработени бижута. Отличен продукт, продължавайте в същия дух."
+181,2,en,отзив,Pro,I wrote to support three days ago and still have no answer. Really frustrating.
+182,5,en,чат,Starter,The WooCommerce plugin works flawlessly. Highly recommend.
+183,1,bg,чат,Pro,"Здравейте! Генерираните описания излизат на английски, въпреки че съм избрал български."
+184,5,bg,чат,Starter,"Здравейте! Магазинът ни е за детски дрехи, около 800 продукта. Много сме доволни, препоръчваме го на всички колеги. Благодаря!"
+185,4,mixed,отзив,Starter,"Страхотен инструмент, спести ни часове работа. Keep it up."
+186,2,bg,чат,Pro,Връзката с eMAG Marketplace прекъсва по няколко пъти на ден. Спешно е.
+187,1,bg,чат,Pro,Здравейте! Фактурата ми излезе на грешна фирма и без ДДС номер.
+188,1,en,чат,Business,Paying per seat on Business adds up very fast.
+189,2,en,отзив,Pro,We run an online cosmetics shop. Our discount ended and now we pay a lot more. Really frustrating.
+190,4,en,отзив,Starter,"We run an online cosmetics shop. Very happy with it, recommending it to everyone. Keep it up."
+191,2,en,чат,Pro,The dashboard takes 20 seconds to load. Really frustrating.
+192,1,bg,имейл,Starter,"Здравейте! Генерирането на едно описание отнема над минута. Моля, оправете го."
+193,4,bg,имейл,Pro,Добър ден! Поддръжката отговори за 10 минути и беше много учтива. Благодаря!
+194,5,mixed,имейл,Pro,"Здравейте! Amazing tool, it saves us hours every week. Благодаря!"
+195,1,en,имейл,Business,Hi team! We sell handmade jewellery. Descriptions get cut off in the middle of a sentence.
+196,5,mixed,отзив,Pro,We have been using the app since spring. Support closed my ticket without solving anything. Разочаровани сме.
+197,1,mixed,отзив,Starter,The help articles are clear and easy to follow. Препоръчвам.
+198,2,bg,чат,Starter,"Генерираните описания излизат на английски, въпреки че съм избрал български. Моля, оправете го. Моят имейл е ivan.petrov@example.com, пишете ми там."
+199,5,bg,имейл,Pro,Здравейте! Свързахме Shopify за две минути и всичко се синхронизира само.
+200,4,en,отзив,Business,Support replied within 10 minutes and was very kind. Highly recommend.
+201,1,bg,имейл,Starter,"Здравейте! Затварят тикета, без да е решен проблемът. Чакам отговор."
+202,1,en,имейл,Business,Hi team! Generating a single description takes over a minute. Waiting for your reply.
+203,4,bg,чат,Pro,"Здравейте! Текстовете звучат естествено и клиентите ни ги харесват, но таблото се зарежда по 20 секунди."
+204,5,mixed,отзив,Pro,Very patient and friendly people in support. Препоръчвам.
+205,2,en,чат,Pro,Hi! We have been using the app since spring. Overall it just does not work for us.
+206,5,mixed,отзив,Starter,Текстовете звучат естествено и клиентите ни ги харесват. Keep it up.
+207,2,bg,чат,Starter,Имаме онлайн магазин за козметика. Няма как да управляваме два магазина от един профил.
+208,5,bg,отзив,Business,"Магазинът ни е за детски дрехи, около 800 продукта. Фактурите идват навреме и са точни, счетоводителят ни е доволен. Благодаря!"
+209,2,en,имейл,Pro,Hello! We run an online cosmetics shop. I get error 500 every time I save a product.
+210,1,en,имейл,Business,Hi team! We sell handmade jewellery. The Shopify sync stopped and products are not updating.
+211,1,bg,чат,Business,"Чудесно, сега всеки продукт го имаме по два пъти. Двойно повече стока!"
+212,5,bg,чат,Business,Работим с вас от година. Импортът на 2 000 продукта отне цяла нощ. Разочаровани сме.
+213,5,mixed,имейл,Business,Здравейте! Feed-ът към Google Shopping е rejected за трети път.
+214,2,bg,чат,Pro,Здравейте! Чатботът на поддръжката отговаря с общи фрази и не помага. Чакам отговор.
+215,1,mixed,отзив,Pro,Чатботът на поддръжката отговаря с общи фрази и не помага. Really frustrating.
+216,2,bg,чат,Pro,"Браво, вече година чакаме експорт в Excel. Търпението е добродетел."
+217,4,mixed,отзив,Business,"Получихме помощ на български, и то в събота, but generating a single description takes over a minute. Оправете го и ще дадем пет звезди."
+218,1,bg,чат,Starter,Фактурите за последните три месеца не са в профила ми.
+219,1,bg,чат,Pro,Здравейте! Pro планът стана прекалено скъп за малък магазин като нашия.
+220,5,bg,отзив,Business,"Отличен продукт, продължавайте в същия дух. Препоръчвам."
+221,1,bg,имейл,Pro,"Здравейте! Генерираните описания излизат на английски, въпреки че съм избрал български. Моля, оправете го."
+222,3,en,отзив,Business,"The video tutorials are clear, we set everything up ourselves, but we need multi-store support, one account per shop is a pain."
+223,5,mixed,отзив,Starter,Поддръжката отговори за 10 минути и беше много учтива. Highly recommend.
+224,5,bg,чат,Starter,"Здравейте! Starter планът е идеален за начало, плащаме малко и получаваме много."
+225,5,en,отзив,Business,We sell handmade jewellery. Support replied within 10 minutes and was very kind. Highly recommend.
+226,3,bg,имейл,Starter,"Здравейте! Страхотен инструмент, спести ни часове работа, но фактурата е в лева, а плащаме в евро, и счетоводителката ни не може да я осчетоводи."
+227,3,bg,чат,Starter,Здравейте! Отстъпката ни изтече и сега плащаме много повече. Ще потърсим друго решение.
+228,5,bg,чат,Starter,"Работим с вас от година. Получихме помощ на български, и то в събота."
+229,5,mixed,отзив,Pro,"Quick and helpful answer from support, thank you! Препоръчвам."
+230,2,mixed,чат,Pro,Support closed my ticket without solving anything. Чакам отговор.
+231,5,mixed,чат,Starter,"Много сме доволни, препоръчваме го на всички колеги. Keep it up."
+232,2,mixed,имейл,Pro,Здравейте! Фийдът към Google Shopping се отхвърля всеки път. Really frustrating.
+233,2,bg,имейл,Pro,"Здравейте! Фактурите за последните три месеца не са в профила ми. Моля, оправете го."
+234,5,bg,отзив,Starter,"Много сме доволни, препоръчваме го на всички колеги."
+235,2,en,имейл,Pro,"Hello! Perfect, the Google feed got rejected again. My favourite email every morning."
+236,3,bg,имейл,Business,"Здравейте! Фийдът към Google Shopping се отхвърля всеки път. Моля, оправете го."
+237,1,bg,имейл,Pro,"Здравейте! Имаме онлайн магазин за козметика. Помощните статии са остарели, екраните вече не изглеждат така. Чакам отговор."
+238,1,bg,отзив,Pro,"Ползваме ви от пролетта. Трябва ни API, за да пускаме описанията автоматично, а такова няма."
+239,3,bg,отзив,Starter,При запис на продукт излиза грешка 500 и всичко се губи. Разочаровани сме.
+240,2,en,чат,Starter,We run an online cosmetics shop. The save button does nothing in Safari. Waiting for your reply.
+241,1,bg,имейл,Starter,"Добър ден! Сменихме плана на Starter, но ни таксувахте за Business. Чакам отговор."
+242,3,bg,отзив,Pro,"Свързахме Shopify за две минути и всичко се синхронизира само, но фактурите за последните три месеца не са в профила ми."
+243,5,bg,отзив,Pro,Текстовете звучат естествено и клиентите ни ги харесват. Препоръчвам.
+244,1,bg,чат,Business,Здравейте! Импортът на 2 000 продукта отне цяла нощ. Разочаровани сме.
+245,2,en,отзив,Business,The invoice is missing our VAT number again. Really frustrating.
+246,2,bg,отзив,Business,Ползваме ви от пролетта. Връзката с eMAG Marketplace прекъсва по няколко пъти на ден. Разочаровани сме.
+247,5,mixed,имейл,Business,"Hello! Connected Shopify in two minutes, the sync just works. Продължавайте така."
+248,1,en,отзив,Pro,The Pro plan is way too expensive for a small shop like ours.
+249,3,bg,имейл,Pro,"Здравейте! Магазинът ни е за детски дрехи, около 800 продукта. Връзката с eMAG Marketplace прекъсва по няколко пъти на ден."
+250,2,mixed,отзив,Business,"Lovely, фактурата пак е в лева. Very retro."
+251,2,mixed,чат,Starter,The webhook docs have no examples at all. Чакам отговор.
+252,4,bg,отзив,Business,Работим с вас от година. Плъгинът за WooCommerce не работи с последната версия на WordPress. Разочаровани сме.
+253,1,en,отзив,Pro,"Please add an API, we cannot automate anything without it. Really frustrating."
+254,1,en,чат,Business,Hi! We sell handmade jewellery. Our Google Shopping feed gets rejected every time.
+255,3,bg,имейл,Business,Здравейте! Таксувахте ме два пъти този месец и още чакам да ми върнете парите. Спешно е.
+256,3,mixed,отзив,Starter,"Струва си всеки цент, изплати се още първия месец, but our Google Shopping feed gets rejected every time."
+257,5,en,отзив,Starter,"We have been using the app since spring. Quick and helpful answer from support, thank you!"
+258,3,bg,отзив,Pro,"Интеграцията с WooCommerce работи безупречно, но защо няма описания на гръцки? Продаваме и в Гърция."
+259,5,bg,чат,Business,"Здравейте! Бърз и учтив отговор от поддръжката, благодаря!"
+260,5,mixed,имейл,Pro,Hi team! Документацията е подробна и ясна. Thanks!
+261,1,bg,отзив,Starter,"Супер, eMAG пак прекъсна. Явно и вие почивате в неделя."
+262,2,bg,чат,Business,"Здравейте! Колко мило, пак ни таксувахте два пъти. Явно много ни обичате."
+263,4,bg,имейл,Business,"Здравейте! Фактурата е в лева, а плащаме в евро, и счетоводителката ни не може да я осчетоводи. Чакам отговор."
+264,3,mixed,отзив,Pro,"Страхотен инструмент, спести ни часове работа, but after the last update some products are duplicated."
+265,5,en,отзив,Pro,"Amazing tool, it saves us hours every week. Thanks!"
+266,4,mixed,отзив,Business,"We run an online cosmetics shop. Connected Shopify in two minutes, the sync just works. Продължавайте така."
+267,1,bg,чат,Starter,"Имаме онлайн магазин за козметика. След последния ъпдейт част от продуктите се дублират. Моля, оправете го."
+268,3,bg,чат,Pro,"Ползваме ви от пролетта. 49 € на месец е много за това, от което имаме нужда. Чакам отговор."
+269,4,en,отзив,Pro,"Amazing tool, it saves us hours every week, but competitors offer the same for half the money."
+270,1,bg,имейл,Pro,Здравейте! Имаме онлайн магазин за козметика. Описанията се режат по средата на изречението. Спешно е.
+271,5,en,отзив,Pro,"Quick and helpful answer from support, thank you!"
+272,5,bg,чат,Pro,Свързахме Shopify за две минути и всичко се синхронизира само.
+273,5,bg,чат,Business,Здравейте! Имаме онлайн магазин за козметика. Таксувахте ме два пъти този месец и още чакам да ми върнете парите.
+274,4,bg,отзив,Pro,"Бърз и учтив отговор от поддръжката, благодаря! Препоръчвам."
+275,3,mixed,имейл,Pro,"Hi team! Интеграцията с WooCommerce работи безупречно, but I was charged twice this month and I am still waiting for the refund. Иначе сме доволни. Обадете ми се на 0888 000 147, Иван Петров."
+276,5,en,отзив,Business,"Very happy with it, recommending it to everyone."
+277,3,bg,чат,Starter,"Здравейте! В ръководството няма нито един пример, всичко е само текст."
+278,2,bg,чат,Pro,"Здравейте! 49 € на месец е много за това, от което имаме нужда."
+279,1,mixed,чат,Starter,Здравейте! Bulk import-ът на продуктите е painfully slow.
+280,1,mixed,чат,Business,Feed-ът към Google Shopping е rejected за трети път.
+281,4,en,чат,Business,"Very happy with it, recommending it to everyone, but our Google Shopping feed gets rejected every time."
+282,1,bg,чат,Pro,"Здравейте! Продаваме ръчно изработени бижута. Фактурите за последните три месеца не са в профила ми. Моля, оправете го."
+283,5,bg,отзив,Starter,"Работим с вас от година. Получихме помощ на български, и то в събота. Благодаря!"
+284,1,en,имейл,Business,Hello! I was charged twice this month and I am still waiting for the refund. Please fix this.
+285,2,mixed,чат,Pro,Таксувахте ме два пъти този месец и още чакам да ми върнете парите. Waiting for your reply.
+286,1,en,чат,Pro,We sell handmade jewellery. The WooCommerce plugin breaks with the latest WordPress.
+287,2,bg,отзив,Pro,След последния ъпдейт част от продуктите се дублират.
+288,2,en,отзив,Business,"We need multi-store support, one account per shop is a pain."
+289,1,bg,чат,Business,"Здравейте! Много бързо, таблото се зареди, преди да изпия кафето си. Второто."
+290,1,bg,чат,Business,Имаме онлайн магазин за козметика. Плъгинът за WooCommerce не работи с последната версия на WordPress. Разочаровани сме.
+291,1,bg,чат,Starter,Здравейте! Работим с вас от година. Чатботът на поддръжката отговаря с общи фрази и не помага.
+292,3,bg,имейл,Starter,"Добър ден! Starter планът е идеален за начало, плащаме малко и получаваме много, но ни трябва API, за да пускаме описанията автоматично, а такова няма."
+293,4,bg,чат,Pro,"Здравейте! Струва си всеки цент, изплати се още първия месец."
+294,2,bg,имейл,Starter,"Здравейте! Магазинът ни е за детски дрехи, около 800 продукта. Следобед всичко е много бавно, сякаш сървърите не издържат."
+295,4,mixed,отзив,Business,Документацията е подробна и ясна. Keep it up.
+296,1,bg,чат,Starter,Здравейте! Бутонът за запис не работи в Safari. Разочаровани сме.
+297,2,mixed,отзив,Pro,Писах на поддръжката преди три дни и още нямам отговор. Really frustrating.
+298,2,bg,имейл,Business,Добър ден! Работим с вас от година. Общо взето не ни върши работа.
+299,2,bg,имейл,Pro,Здравейте! Работим с вас от година. Описанията се режат по средата на изречението.
+300,2,bg,отзив,Pro,Благодаря за бързия отговор след само пет дни.
